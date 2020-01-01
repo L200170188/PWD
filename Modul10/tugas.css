@@ -1,0 +1,20 @@
+body
+{
+background:blue
+}
+h2
+{font-family:high tower text;
+background-color:skyblue;
+text-align:center
+}
+table
+{background:white
+}
+.td {
+font-weight:bold;
+}
+.dashed
+{
+border-style:dashed;
+border-color:pink;
+}

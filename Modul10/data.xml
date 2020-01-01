@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type=”text/css” href=”data2.css”?>
+<Mahasiswa>
+<ID>
+<NIM>L200170111</NIM>
+<Nama>Inaya</Nama>
+<Kota>Klaten</Kota>
+</ID>
+<ID>
+<NIM>L200170222</NIM>
+<Nama>Verdita</Nama>
+<Kota>Surakarta</Kota>
+</ID>
+<ID>
+<NIM>L200170333</NIM>
+<Nama>Ahmad</Nama>
+<Kota>Surakarta</Kota>
+</ID>
+<ID>
+<NIM>L200170444</NIM>
+<Nama>Septyan</Nama>
+<Kota>Yogyakarta</Kota>
+</ID>
+<ID>
+<NIM>L200170555</NIM>
+<Nama>Shinta</Nama>
+<Kota>Karanganyar</Kota>
+</ID>
+</Mahasiswa>
